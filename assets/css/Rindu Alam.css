@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Rindu Alam';
+	src: url(../../assets/fonts/Rindu%20Alam-60a050eea225a46bbcf4e93a885dd2d6.woff2) format('woff2'),
+	url(../../assets/fonts/Rindu%20Alam-32927dca04fb95e8f38aa8fb11330c5a.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

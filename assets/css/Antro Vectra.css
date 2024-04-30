@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Antro Vectra';
+	src: url(../../assets/fonts/Antro%20Vectra-a266a2afd07eb5a77266d87a06cdbeaa.woff2) format('woff2'),
+	url(../../assets/fonts/Antro%20Vectra-aa0bd56724090c6bf00eef76335932a3.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

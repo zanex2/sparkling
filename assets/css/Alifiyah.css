@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Alifiyah';
+	src: url(../../assets/fonts/Alifiyah-cd4fa4ddd3cf11ce797509fbdee5951f.woff2) format('woff2'),
+	url(../../assets/fonts/Alifiyah-3947d6f386dbf03a77182876a670acf6.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

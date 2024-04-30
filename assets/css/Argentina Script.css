@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Argentina Script';
+	src: url(../../assets/fonts/Argentina%20Script-042d8da230602e3ce6b4c9101b90d973.woff2) format('woff2'),
+	url(../../assets/fonts/Argentina%20Script-5df4d8855173a7ce2c06a53376c76020.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

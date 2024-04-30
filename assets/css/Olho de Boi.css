@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Olho de Boi';
+	src: url(../../assets/fonts/Olho%20de%20Boi-67ef29d7eed311c08957d47ce89fc310.woff2) format('woff2'),
+	url(../../assets/fonts/Olho%20de%20Boi-2bdbdb9b06b03d0521b58aef480dc9cc.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
